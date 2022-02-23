@@ -2,7 +2,7 @@
 - 👀 Sou obsecado por conhecimento, pra mim qualquer tipo de ensinamento ou informação é valido.
 - 🌱 No momento estou focado em aprender Python.
 - 💞️ Estou procurando me encontrar no mundo do Back-End.
-- ⚙ Trabalho hoje com banco de dados
+- ⚙ Trabalho hoje com APIs no Back-End
 <br>
 
 <div align="center">
