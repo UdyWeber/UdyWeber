@@ -1,7 +1,7 @@
 ## 👋 Ola! Me chamo João Arthur quer saber mais sobre mim?
 - 👀 Sou obsecado por conhecimento, pra mim qualquer tipo de ensinamento ou informação é valido.
-- 🌱 No momento estou focado em aprender Python.
-- 💞️ Estou procurando me encontrar no mundo do Back-End.
+- 🌱 No momento estou focado em aprender Python & Rust.
+- 💞️ Estou procurando me tornar um Dev Back-End melhor a cada dia.
 - ⚙ Trabalho hoje com Back-End
 <br>
 
