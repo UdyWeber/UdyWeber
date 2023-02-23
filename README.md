@@ -3,10 +3,13 @@
 - 🌱 No momento estou focado em aprender Python & Rust.
 - 💞️ Estou procurando me tornar um Dev Back-End melhor a cada dia.
 - ⚙ Trabalho hoje com Back-End
-<br>
+<br />
 
 
-##
+### Statistics
+![UdyWeber's GitHub stats](https://github-readme-stats.vercel.app/api?username=udyweber&count_private=true&theme=omni&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udyweber&layout=compact&theme=omni&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/udyweber/github-readme-stats)
   
 <div> 
   <a href="https://www.instagram.com/file_jaw.py/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
