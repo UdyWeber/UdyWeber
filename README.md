@@ -6,11 +6,12 @@
 <br />
 
 
-### Statistics
+## Statistics
 ![UdyWeber's GitHub stats](https://github-readme-stats.vercel.app/api?username=udyweber&count_private=true&theme=omni&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udyweber&layout=compact&theme=omni&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/udyweber/github-readme-stats)
-  
+<br />
+
+## Socials
 <div> 
   <a href="https://www.instagram.com/file_jaw.py/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:tuyweber@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
