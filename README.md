@@ -1,6 +1,6 @@
 ## About myself 
 Hello dear friend, my name is João Arthur, but I always introduce myself as Jaw for simplicity. I'm just a dumb person trying to understand complex topics such as compilers, massive data processing, low level development, etc... <br /><br />
-Currently I'm trying to write my first compiler following the Crafting Interpreters book, using Rust :crab:, trying to upgrade my skills in Web development using Golang, and being forced to get good at Java for my job :coffee: <br /><br />
+Currently I'm trying to write my first compiler following the Crafting Interpreters book using Rust :crab:, trying to upgrade my skills in Web development using Golang, and being forced to get good at Java for my job :coffee: <br /><br />
 I love studying new topics and trying out new interesting and wierd languages. Maybe Haskell will be my next target! In my spare time I enjoy listening to all kinds of music (Pirate metal is my fav), playing games and doing SQL queries :D
 
 ## My Stack
